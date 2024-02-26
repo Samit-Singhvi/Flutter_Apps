@@ -19,17 +19,27 @@ suggestions based on their selected filters.
 
 ## Glimpse of all the sections of the app
 
-* Home Screen
-  [Home Screen](images/home.png)
+* **Home Screen**
+  
+  ![](images/home.png)
+  
 
-* Categories ( It shows all the food categories available for the user to choose).
-  ![Categories Screen](images/categories.png)
+* **Categories ( It shows all the food categories available for the user to choose).**
+  
+  ![](images/categories.png)
+  
 
-* Recipe Screen(It shows the complete recipe when a user click on any food item)
-  ![Recipe](images/recipe.pmg)
+* **Recipe Screen(It shows the complete recipe when a user click on any food item)**
+  
+  ![](images/recipe.png)
+  
 
-* Favorites Screen(When a user marks any recipe as favorite it would appear here, to remove it the star button again need to be clicked in the recipe screen)
-  ![Favorites](images/favorites.png]
+* **Favorites Screen(When a user marks any recipe as favorite it would appear here, to remove it the star button again need to be clicked in the recipe screen)**
 
-* Filters(It allows the users to apply filters and display food items accordingly. It can be opened by clicking on Filters Button in the side drawer)
-  ![Filters](images/filters.png)
+  ![](images/favorites.png)
+  
+
+* **Filters(It allows the users to apply filters and display food items accordingly. It can be opened by clicking on Filters Button in the side drawer)**
+  
+  ![](images/filters.png)
+
